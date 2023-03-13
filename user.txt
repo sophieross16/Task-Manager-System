@@ -1,0 +1,7 @@
+admin,adm1n
+user,pass
+abic,smokey
+sop,ross
+SaS,Saaas
+abicc,smoky
+graham,graham

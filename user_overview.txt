@@ -1,0 +1,82 @@
+User Report
+Overview
+	Total number of tasks: 3
+	Total number of users: 7
+	
+User: admin
+	Tasks: 1
+	% of total tasks: 33.33%
+
+	admin's Task Stats
+		Completed tasks: 1
+		% Completed: 100.00%
+		Incompleted tasks: 0
+		% Incompleted: 0.00%
+		Incompleted and overdue tasks: 0
+		% Incompleted and overdue: 0.00%
+User: user
+	Tasks: 0
+	% of total tasks: 0.00%
+
+	user's Task Stats
+		Completed tasks: 0
+		% Completed: 0.00%
+		Incompleted tasks: 0
+		% Incompleted: 0.00%
+		Incompleted and overdue tasks: 0
+		% Incompleted and overdue: 0.00%
+User: abic
+	Tasks: 2
+	% of total tasks: 66.67%
+
+	abic's Task Stats
+		Completed tasks: 0
+		% Completed: 0.00%
+		Incompleted tasks: 2
+		% Incompleted: 100.00%
+		Incompleted and overdue tasks: 2
+		% Incompleted and overdue: 100.00%
+User: sop
+	Tasks: 0
+	% of total tasks: 0.00%
+
+	sop's Task Stats
+		Completed tasks: 0
+		% Completed: 0.00%
+		Incompleted tasks: 0
+		% Incompleted: 0.00%
+		Incompleted and overdue tasks: 0
+		% Incompleted and overdue: 0.00%
+User: SaS
+	Tasks: 0
+	% of total tasks: 0.00%
+
+	SaS's Task Stats
+		Completed tasks: 0
+		% Completed: 0.00%
+		Incompleted tasks: 0
+		% Incompleted: 0.00%
+		Incompleted and overdue tasks: 0
+		% Incompleted and overdue: 0.00%
+User: abicc
+	Tasks: 0
+	% of total tasks: 0.00%
+
+	abicc's Task Stats
+		Completed tasks: 0
+		% Completed: 0.00%
+		Incompleted tasks: 0
+		% Incompleted: 0.00%
+		Incompleted and overdue tasks: 0
+		% Incompleted and overdue: 0.00%
+User: graham
+	Tasks: 0
+	% of total tasks: 0.00%
+
+	graham's Task Stats
+		Completed tasks: 0
+		% Completed: 0.00%
+		Incompleted tasks: 0
+		% Incompleted: 0.00%
+		Incompleted and overdue tasks: 0
+		% Incompleted and overdue: 0.00%

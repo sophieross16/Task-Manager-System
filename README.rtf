@@ -1,0 +1,90 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\froman\fcharset0 Times-Roman;\f2\fnil\fcharset0 HelveticaNeue;
+}
+{\colortbl;\red255\green255\blue255;\red42\green49\blue64;\red29\green72\blue230;\red42\green49\blue64;
+}
+{\*\expandedcolortbl;;\cssrgb\c21569\c25490\c31765;\cssrgb\c14510\c38824\c92157;\cssrgb\c21569\c25490\c31765;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10260\viewh18000\viewkind0
+\deftab720
+\pard\pardeftab720\sl540\sa360\qc\partightenfactor0
+
+\f0\b\fs45 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 README
+\f1\b0\fs36 \cf3 \strokec3 \
+\pard\pardeftab720\sl480\sa240\partightenfactor0
+
+\f0\b \cf2 \strokec2 Name\
+\pard\pardeftab720\partightenfactor0
+
+\f2\b0\fs24 \cf2 Task Management System for a small business to manage tasks assigned to each member of the team\
+\pard\pardeftab720\sl480\partightenfactor0
+
+\f1\fs36 \cf3 \strokec3 \
+\pard\pardeftab720\sl480\sa240\partightenfactor0
+
+\f0\b \cf2 \strokec2 Description//Functionality\
+\pard\pardeftab720\partightenfactor0
+
+\f2\b0\fs24 \cf2 A task manager file allows a user to\
+	-Login (prompted to enter a username and password)\
+	-Register a user with a new username and password\
+	-Add a new task, including details such as the assigned user, title, description and due date\
+	-View all tasks listed in the tasks.txt file, and select a task in order to mark it as complete or edit the assigned user or due date\
+	-View all tasks assigned to themselves\
+	-Generate reports through generating two files:\
+		-task_overview.txt\
+			This contains the total number of generate and tracked tasks, total number of completed/uncompleted/overdue tasks, as well as the % of tasks incomplete and/or overdue\
+		-user_overview.txt\
+			This file generates a report concerning the total number of registered users, total number of tasks and statistics regarding the number of (completed/Incompleted/overdue) tasks assigned to that user\
+	-Display statistics\
+		This reads the above files and displays reports on the screen in a user-friendly manner. If these text files do not exist then it calls the code to generate them\
+\pard\pardeftab720\sl480\partightenfactor0
+
+\f1\fs36 \cf3 \strokec3 \
+\pard\pardeftab720\sl480\sa240\partightenfactor0
+
+\f0\b \cf2 \strokec2 Installation\
+\pard\pardeftab720\partightenfactor0
+
+\f2\b0\fs24 \cf4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 Install all files into the same folder and run the task_manager.py file on any Python interpreter. The system requires user input in the terminal\
+\
+\pard\pardeftab720\partightenfactor0
+\cf4 Files\
+1 - tasks.txt stores a list of all the tasks the team is working on. The data for each task is stored  on a separate line in the text file. Each line includes the following data:\
+	-The username of the person to whom the task is assigned\
+	-The task title\
+	-A description of the task\
+	-The due date that the task was assigned to the user\
+	-The due date for the task\
+	-Either a \'91Yes\'92 or \'91No\'92 value that specifies if the task has been completed yet\
+\
+2 - user.txt stores the username and password for each user that has permission to use the program\cf4 \
+\
+\pard\pardeftab720\sl480\sa240\partightenfactor0
+
+\f0\b\fs36 \cf4 Usage
+\f2\b0\fs24 \cf4 \
+\pard\pardeftab720\partightenfactor0
+\cf4 When the program is run, the user is requested to login. For assistance, the user.txt file stores the login details of current registered users. The main menu then appears and the user is requested to enter details in the terminal.\
+\
+Note that only the admin has permission to register new users.\
+
+\f0\b\fs36 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \
+\pard\pardeftab720\sl480\sa240\partightenfactor0
+\cf2 Roadmap\
+\pard\pardeftab720\partightenfactor0
+
+\f2\b0\fs24 \cf2 Ideas for releases in the future, including creating a front-end GUI.
+\f1\fs36 \cf3 \strokec3 \
+\pard\pardeftab720\sl480\partightenfactor0
+\cf3 \
+\pard\pardeftab720\sl480\sa240\partightenfactor0
+
+\f0\b \cf2 \strokec2 Project status\
+\pard\pardeftab720\partightenfactor0
+
+\f2\b0\fs24 \cf2 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.\
+}
